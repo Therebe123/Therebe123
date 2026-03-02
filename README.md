@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Therebe123
 - 👀 I’m interested in statistics and AI
-- 🌱 I’m currently learning in RUC
+- 🌱 I’m currently learning in FDU
 - 📫 How to reach me —— 320732291@qq.com
 
 ![Therebe123's GitHub stats](https://github-readme-stats.vercel.app/api?username=Therebe123&show_icons=true&theme=transparent)
